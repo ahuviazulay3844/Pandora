@@ -9,6 +9,10 @@
 
 </div>
 
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/c651fee5-707c-4a0d-9af5-0208ece1e16a"><img src="docs/media/preview.gif" width="820" alt="Preview - click to watch with sound"></a>
+</p>
+
 https://github.com/user-attachments/assets/c651fee5-707c-4a0d-9af5-0208ece1e16a
 
 <div dir="rtl">
